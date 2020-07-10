@@ -1,1 +1,1 @@
-{"data":{"markdownRemark":{"html":"<p>Welcome to Markdown</p>","frontmatter":{"date":"May 04, 2019","slug":"/blog/my-first-post","title":"My first blog post"}}},"pageContext":{"slug":"/blog/my-first-post"}}
+{"data":{"markdownRemark":{"html":"<p>Welcome to Markdown</p>\n<h1>First title</h1>\n<h3>Third Title</h3>\n<h2>Second title</h2>\n<p><strong>Bold Text</strong></p>","frontmatter":{"date":"May 04, 2019","slug":"/blog/my-first-post","title":"My first blog post"}}},"pageContext":{"slug":"/blog/my-first-post"}}

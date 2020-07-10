@@ -4,8 +4,8 @@ import JSONData from "../../content/My-JSON-Content.json"
 export default function Home() {
 
   return <div>
-    Hello World
-    <a href= "post.md">Go to my first Markdown blog post</a>
+    Hello World <br></br>
+    <a href= "json-at-buildtime">Go to my first JSON </a>
     <h1>
   
     {JSONData.title}
